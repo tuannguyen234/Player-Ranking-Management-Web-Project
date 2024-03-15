@@ -1,0 +1,5 @@
+MSSV,Full name,rank,Date
+HE171284,Pham Quang,D Hard,2024-01-01
+HE171389,Le Viet Hung,E,2024-03-02
+HE171477,Tran Ba Cuong,F,2024-03-04
+HE171537,Pham Quang,H,2024-01-01
